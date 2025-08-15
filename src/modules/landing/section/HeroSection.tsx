@@ -20,7 +20,7 @@ export default function HeroSection() {
           className="w-20 mb-4 mx-auto"
           alt="icon-yudha-with-mac"
         />
-        <h1 className="text-3xl font-bold mb-4">I'm Yudha</h1>
+        <h1 className="text-3xl font-bold mb-4">I'm Syalom</h1>
 
         <div className="inline-flex mb-4">
           <span className="border-input flex flex-row items-center gap-x-3 rounded-3xl border px-4 py-2 text-sm shadow-sm transition-all hover:shadow-md">
