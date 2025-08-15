@@ -6,16 +6,7 @@ export default function AboutSection() {
           About
         </p>
         <h3 className="md:w-4/6 text-sm text-justify leading-6">
-          Full stack Web Developer with over 3 years of experience designing and
-          building scalable web applications across digital media, UAV control
-          systems, and enterprise platforms. Skilled in Laravel, TypeScript
-          (React, Vue), real-time communication protocols like Socket.IO and
-          MQTT, and implementing secure authentication methods. Experienced in
-          improving user experience through reusable UI components and features
-          integrated with Google Analytics. Passionate about clean architecture,
-          CI/CD automation, and delivering robust solutions in agile
-          environments. Strong collaborator committed to driving impactful
-          projects from concept to deployment.
+          My name is Syalom Pranadhia Oktavino, I'am 17 years old
         </h3>
       </div>
     </section>
