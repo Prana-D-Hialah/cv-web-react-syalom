@@ -1,16 +1,11 @@
 export default function ExperienceSection() {
   const experiences = [
     {
-      job: "Full Stack Developer",
-      place: "PT. Aksamedia Mulia Digital",
-      duration: "Feb 2024 - Present",
+      job: "Student",
+      place: "SDN Tropodo",
+      duration: "2016-2021",
       description: [
-        "Built a dashboard with Google Analytics for performance tracking.",
-        "Enhanced HMAC authentication for secure integrations.",
-        "Improved map visuals with custom location markers.",
-        "Created reusable UI components for scalability.",
-        "Integrated real-time email replies into the inbox system.",
-        "Implemented email-based OTP for secure login.",
+        "Di waktu itu saya hanya anak kecil biasa yang tidak punya banyak pengalaman dan masih newbie di berbagai bidang",
       ],
     },
     {
