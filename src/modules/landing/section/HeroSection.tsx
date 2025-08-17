@@ -4,7 +4,9 @@ import iconYudha from "@assets/icons/profile/icon_yudha.png";
 
 export default function HeroSection() {
   const currentStatuses = [
-    { icon: "ri:github-line", label: "https://github.com/Prana-D-Hialah" },
+    { icon: "ri:github-line",
+      label: "My github",
+      url: "https://github.com/Prana-D-Hialah"},
     { icon: "ri:map-pin-2-line", label: "Balong Bendo, Sidoarjo, Jawa Timur" },
     {
       icon: "ri:linkedin-box-line",
