@@ -28,7 +28,7 @@ export default function HeroSection() {
               <span className="absolute inline-flex h-2 w-2 animate-ping rounded-full border border-green-400 bg-green-400 opacity-75"></span>
               <span className="relative inline-flex h-2 w-2 rounded-full bg-green-400"></span>
             </span>
-            <span className="font-medium">Open to work</span>
+            <span className="font-medium">Open to studying</span>
           </span>
         </div>
 
