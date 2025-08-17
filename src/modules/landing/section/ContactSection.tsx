@@ -4,12 +4,12 @@ export default function ContactSection() {
     {
       label: "github",
       icon: "ri:github-line",
-      url: "https://www.github.com/ktyudha",
+      url: "https://github.com/Prana-D-Hialah",
     },
     {
       label: "linkedin",
       icon: "ri:linkedin-box-line",
-      url: "https://linkedin.com/in/ktyudha",
+      url: "https://www.linkedin.com/in/syalom-vino-7b204737b",
     },
     {
       label: "whatsapp",
