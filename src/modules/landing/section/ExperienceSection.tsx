@@ -15,7 +15,7 @@ export default function ExperienceSection() {
       duration: "2025",
       description: [
         "Pertama kali menjadi seorang BPH organisasi.",
-        ".",
+        "Sangat banyak pengalaman yang saya peroleh dari hal ini.",
         "Designed workflows before development for efficiency.",
         "Optimized queries using database views and tables.",
       ],
