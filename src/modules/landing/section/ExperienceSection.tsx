@@ -6,7 +6,6 @@ export default function ExperienceSection() {
       duration: "Tahun ajaran 2024-2025",
       description: [
         "Menjadi ketua kelas/danton kelas selama tahun ajaran 2024-2025"
-        "Pengalaman  pertama saya sebagai seorang pemimpin selama ini"
       ],
     },
     {
