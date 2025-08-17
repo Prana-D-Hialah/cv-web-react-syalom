@@ -14,7 +14,7 @@ export default function ContactSection() {
     {
       label: "whatsapp",
       icon: "ri:whatsapp-line",
-      url: "whatsapp://send?phone=6285848250548&text=Let's be friends!",
+      url: "whatsapp://send?phone=628570865518&text=Let's be friends!",
     },
     {
       label: "blog",
