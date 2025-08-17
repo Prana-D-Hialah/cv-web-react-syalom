@@ -1,20 +1,21 @@
 export default function ExperienceSection() {
   const experiences = [
     {
-      job: "Student",
-      place: "SDN Tropodo",
-      duration: "2016-2021",
+      job: "Danton kelas X TKJ 2",
+      place: "SMKN 1 Pungging",
+      duration: "Tahun ajaran 2024-2025",
       description: [
-        "Di waktu itu saya hanya anak kecil biasa yang tidak punya banyak pengalaman dan masih newbie di berbagai bidang",
+        "Menjadi ketua kelas/danton kelas selama tahun ajaran 2024-2025"
+        "Pengalaman  pertama saya sebagai seorang pemimpin selama ini"
       ],
     },
     {
-      job: "Backend Developer",
-      place: "PT. Sekawan Media Informatika",
-      duration: "Apr - May 2024",
+      job: "Wakil ketua UKKI II 2025",
+      place: "SMKN 1 Pungging",
+      duration: "2025",
       description: [
-        "Developed CRUD and Excel export features.",
-        "Used HMVC in CodeIgniter 3 for scalable backend.",
+        "Pertama kali menjadi seorang BPH organisasi.",
+        ".",
         "Designed workflows before development for efficiency.",
         "Optimized queries using database views and tables.",
       ],
