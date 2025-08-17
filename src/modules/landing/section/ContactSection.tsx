@@ -16,11 +16,6 @@ export default function ContactSection() {
       icon: "ri:whatsapp-line",
       url: "whatsapp://send?phone=6285708651518&text=Let's be friends!",
     },
-    {
-      label: "blog",
-      icon: "mdi:world",
-      url: "https://dhasitus.wordpress.com",
-    },
   ];
   return (
     <section
