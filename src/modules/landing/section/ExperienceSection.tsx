@@ -52,7 +52,7 @@ export default function ExperienceSection() {
     >
       <div className="flex md:flex-row flex-col md:gap-0 gap-4">
         <p className="md:w-2/6 text-xl font-semibold md:text-left text-center">
-          Experience
+          Background
         </p>
         <div className="md:w-4/6 grid grid-cols-1 gap-4">
           {experiences.map((data, idx) => (
