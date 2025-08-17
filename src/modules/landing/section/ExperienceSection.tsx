@@ -9,14 +9,12 @@ export default function ExperienceSection() {
       ],
     },
     {
-      job: "Wakil ketua UKKI II 2025",
+      job: "Wakil ketua II UKKI 2025",
       place: "SMKN 1 Pungging",
       duration: "2025",
       description: [
         "Pertama kali menjadi seorang BPH organisasi.",
-        "Sangat banyak pengalaman yang saya peroleh dari hal ini.",
-        "Designed workflows before development for efficiency.",
-        "Optimized queries using database views and tables.",
+        "Sangat banyak pengalaman yang saya peroleh dari hal ini."
       ],
     },
     {
