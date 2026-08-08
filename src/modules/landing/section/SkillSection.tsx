@@ -2,7 +2,7 @@ export default function SkillSection() {
   const skills = [
     {
       label: "Hard Skills",
-      skills: ["Las","Coding",],
+      skills: ["Python Programming","Basic Algorithms","Computer Networking","MikroTik Configuration","Linux Administration (Basic)"],
     },
     {
       label: "Communication Protocol",
