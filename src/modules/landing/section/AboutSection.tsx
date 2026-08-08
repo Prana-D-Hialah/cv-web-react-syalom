@@ -6,7 +6,7 @@ export default function AboutSection() {
           About
         </p>
         <h3 className="md:w-4/6 text-sm text-justify leading-6">
-          My name is Syalom Pranadhia Oktavino, I'am 17 years old
+          My name is Syalom Pranadhia Oktavino, I'am 18 years old.
         </h3>
       </div>
     </section>

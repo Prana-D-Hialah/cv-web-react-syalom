@@ -14,7 +14,7 @@ export default function ContactSection() {
     {
       label: "whatsapp",
       icon: "ri:whatsapp-line",
-      url: "whatsapp://send?phone=6285708651518&text=Let's be friends!",
+      url: "whatsapp://send?phone=6285708651518&text=Halo, salam kenal bro ! ANJAY",
     },
   ];
   return (
