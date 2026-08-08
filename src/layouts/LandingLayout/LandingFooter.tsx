@@ -5,7 +5,7 @@ export default function LandingFooter() {
   return (
     <footer className="footer footer-center p-4 mt-16 mx-auto">
       <aside>
-        <p>© {year} Kurniawan Try Yudha</p>
+        <p>© {year} Syalom Pranadhia Oktavino</p>
       </aside>
     </footer>
   );
