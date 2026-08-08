@@ -5,7 +5,7 @@ export default function SkillSection() {
       skills: ["Python Programming","Basic Algorithms","Computer Networking","MikroTik Configuration","Linux Administration (Basic)"],
     },
     {
-      label: "Communication Protocol",
+      label: "Soft Skills",
       skills: ["SocketIO", "MQTT", "MAVLink"],
     },
     {
