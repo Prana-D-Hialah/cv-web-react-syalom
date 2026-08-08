@@ -6,16 +6,8 @@ export default function SkillSection() {
     },
     {
       label: "Soft Skills",
-      skills: ["SocketIO", "MQTT", "MAVLink"],
-    },
-    {
-      label: "Networking & Server",
-      skills: ["Cisco", "MikroTik", "Linux"],
-    },
-    {
-      label: "Google Tools",
-      skills: ["Firebase", "Google Analytics", "Google Console"],
-    },
+      skills: ["Leadership","Teamwork","Communication","Problem Solving","Critical Thinking","Adaptability","Time Management","Initiative"],
+    }
   ];
 
   return (
