@@ -6,7 +6,13 @@ export default function AboutSection() {
           About
         </p>
         <h3 className="md:w-4/6 text-sm text-justify leading-6">
-         Name: Syalom Pranadhia Oktavino
+         Full Name: Syalom Pranadhia Oktavino
+         Nickname: Syalom / Vino / Topik
+         Date Of Birth: 04-10-2008
+         Place Of Birth: Krian, Sidoarjo, East Java, Indonesian 
+         Nationality: Indonesian 
+         Current Status: 3rd grade student of vocational high school majoring in computer and network engineering 
+         Music Taste: NU Metal     
         </h3>
       </div>
     </section>
